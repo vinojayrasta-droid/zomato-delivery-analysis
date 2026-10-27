@@ -2,6 +2,8 @@
 
 Take Home Test — Data Analyst Bootcamp
 
+![Dashboard overview](images/dashboard.png)
+
 ## Problem Statement
 Which factors most affect late deliveries, and which operational conditions can be optimized?
 
@@ -16,6 +18,7 @@ Which factors most affect late deliveries, and which operational conditions can 
 | `Take Home Test.pbix` | Interactive Power BI dashboard |
 | `zomato_clean.csv` | Cleaned dataset used for the dashboard |
 | `What Makes Deliveries Late — Zomato Delivery Operations Analytics.pdf` | Presentation slides |
+| `images/dashboard.png` | Dashboard screenshot |
 
 ## Key Findings
 - Carrying 2–3 additional orders raises the late rate from 14% to 73–100%, and average delivery time from 22.9 to 40–48 min
